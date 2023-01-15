@@ -5,7 +5,7 @@
   "links": [
     {
       "title": "LinkedIn",
-      "url": "https://bit.ly/3vgc5Ge",
+      "url": "http://bit.ly/3vgc5Ge",
       "icon": "linkedin"
     },
     {
@@ -15,8 +15,13 @@
     },
     {
       "title": "Medium",
-      "url": "https://bit.ly/3juk403",
+      "url": "http://bit.ly/3juk403",
       "icon": "medium"
+    },
+    {
+      "title": "Twitter",
+      "url": "http://bit.ly/3kc0fux",
+      "icon": "twitter"
     }
   ]
 }
